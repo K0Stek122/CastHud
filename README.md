@@ -14,4 +14,4 @@ To use it just download the latest release and run.
 # Contribute
 Any contributions are appreciated! If you fix any bugs or give me any ideas, i'll gladly include the fixes.
 
-<iframe src="https://giphy.com/embed/YyiBcfkX9EGYSwfSh7" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YyiBcfkX9EGYSwfSh7">via GIPHY</a></p>
+![Showcase]https://media4.giphy.com/media/YyiBcfkX9EGYSwfSh7/giphy.gif
