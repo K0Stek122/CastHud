@@ -13,3 +13,5 @@ To use it just download the latest release and run.
 
 # Contribute
 Any contributions are appreciated! If you fix any bugs or give me any ideas, i'll gladly include the fixes.
+
+![Alt Text](https://giphy.com/gifs/YyiBcfkX9EGYSwfSh7)
