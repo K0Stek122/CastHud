@@ -1,0 +1,37 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  Overlay.cpp
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(172,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(172,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(183,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(183,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(191,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(191,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(199,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(199,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(211,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(217,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(224,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(230,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(241,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(242,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(248,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(249,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(255,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(256,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(262,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(263,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(324,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Profile.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\pc1\source\repos\opengl-overlay\Overlay\src\include\Overlay\Overlay.cpp(289): warning C4715: 'Kostek::CastHud::SaveConfig': not all control paths return a value
+  All 1724 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Overlay.vcxproj -> C:\Users\pc1\source\repos\opengl-overlay\x64\Release\Overlay.exe
