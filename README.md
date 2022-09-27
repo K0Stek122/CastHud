@@ -14,4 +14,4 @@ To use it just download the latest release and run.
 # Contribute
 Any contributions are appreciated! If you fix any bugs or give me any ideas, i'll gladly include the fixes.
 
-![Showcase]https://media4.giphy.com/media/YyiBcfkX9EGYSwfSh7/giphy.gif
+![Showcase](https://media4.giphy.com/media/YyiBcfkX9EGYSwfSh7/giphy.gif)
