@@ -9,7 +9,9 @@ It currently has 5 styles and a few basic settings:
 - Scale
 - RGB colors
 - Offset
-To use it just download the latest release and run.
+
+# How to use it?
+To use just download the latest release and run, to open the menu press insert.
 
 # Contribute
 Any contributions are appreciated! If you fix any bugs or give me any ideas, i'll gladly include the fixes.
