@@ -17,4 +17,8 @@ To use just download the latest release and run, to open the menu press insert.
 # Contribute
 Any contributions are appreciated! If you fix any bugs or give me any ideas, i'll gladly include the fixes.
 
+# FAQ
+## Can you get banned for using this crosshair?
+I cannot guarantee 100% that you won't get banned for using this crosshair, most anticheats will be fine with it, but some anticheats (like punkbuster) do not allow the use of custom crosshairs.
+
 ![Showcase](https://media4.giphy.com/media/YyiBcfkX9EGYSwfSh7/giphy.gif)
