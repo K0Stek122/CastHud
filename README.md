@@ -1,5 +1,6 @@
 # CastHud
 An overlay that lets you configure and draw your own crosshairs.
+Only runs on windows, and i have no incentive to port it to linux, at least yet.
 
 ## What is it?
 This is an overlay that lets you draw your own crosshair in any game that supports borderless-fullscreen.
