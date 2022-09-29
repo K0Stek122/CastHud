@@ -5,7 +5,7 @@
 #include "include/ImGui/imgui_impl_opengl3.h"
 //#include "include/ImGui/imgui_impl_opengl3_loader.h"
 
-int main()
+int APIENTRY wWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPTSTR lpCmdLine, int nCmdShow)
 {
 	Kostek::CastHud* overlay = new Kostek::CastHud();
 
