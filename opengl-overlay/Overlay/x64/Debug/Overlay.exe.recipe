@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\pc1\source\repos\opengl-overlay\x64\Debug\Overlay.exe</FullPath>
+      <FullPath>C:\Users\pc1\source\repos\CastHud\opengl-overlay\x64\Debug\Overlay.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
