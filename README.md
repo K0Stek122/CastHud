@@ -13,6 +13,10 @@ It currently has 5 styles and a few basic settings:
 
 # How to use it?
 To use just download the latest release and run, to open the menu press insert.
+## Compiling from source (for users)
+clone the "release" branch and compile in Visual Studio C++ 2019
+## Compiling from source (for developers)
+Clone the "main" braanch and open project with Visual Studio C++ 2019
 
 # Contribute
 Any contributions are appreciated! If you fix any bugs or give me any ideas, i'll gladly include the fixes.
