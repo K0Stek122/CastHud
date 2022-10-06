@@ -92,7 +92,7 @@
     <ClCompile Include="src\include\ImGui\imgui_tables.cpp" />
     <ClCompile Include="src\include\ImGui\imgui_widgets.cpp" />
     <ClCompile Include="src\main.cpp" />
-    <ClCompile Include="src\include\Overlay\Overlay.cpp" />
+    <ClCompile Include="src\include\CastHud\CastHud.cpp" />
     <ClCompile Include="src\include\Profile\Profile.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -106,7 +106,7 @@
     <ClInclude Include="src\include\ImGui\imstb_rectpack.h" />
     <ClInclude Include="src\include\ImGui\imstb_textedit.h" />
     <ClInclude Include="src\include\ImGui\imstb_truetype.h" />
-    <ClInclude Include="src\include\Overlay\Overlay.h" />
+    <ClInclude Include="src\include\CastHud\CastHud.h" />
     <ClInclude Include="src\include\Profile\Profile.h" />
   </ItemGroup>
   <ItemGroup>

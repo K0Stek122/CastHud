@@ -10,4 +10,6 @@ struct Profile
 	float gap = 0;
 	int xOffset = 0;
 	int yOffset = 0;
+	int dot = 0;
+	int TStyle = 0;
 };

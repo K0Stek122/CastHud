@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\include\Overlay\Overlay.cpp">
+    <ClCompile Include="src\include\CastHud\CastHud.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="src\main.cpp">
@@ -47,7 +47,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\include\Overlay\Overlay.h">
+    <ClInclude Include="src\include\CastHud\CastHud.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\include\glfw\include\glfw3.h">
