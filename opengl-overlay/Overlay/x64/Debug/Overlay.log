@@ -1,23 +1,35 @@
-﻿  CastHud.cpp
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(177,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(177,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(188,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(188,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(196,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(196,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(204,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(204,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(216,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(222,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(229,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(235,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(248,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(249,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(256,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(257,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(263,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(264,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(270,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(271,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\pc1\source\repos\CastHud\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(328,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  Overlay.vcxproj -> C:\Users\pc1\source\repos\CastHud\opengl-overlay\x64\Debug\Overlay.exe
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  CastHud.cpp
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(177,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(177,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(188,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(188,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(196,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(196,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(204,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(204,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(216,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(222,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(229,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(235,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(248,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(249,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(256,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(257,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(263,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(264,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(270,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(271,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pc1\source\repos\GITHUB\opengl-overlay\Overlay\src\include\CastHud\CastHud.cpp(328,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Profile.cpp
+  Generating Code...
+  LINK : C:\Users\pc1\source\repos\GITHUB\opengl-overlay\x64\Debug\Overlay.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Overlay.vcxproj -> C:\Users\pc1\source\repos\GITHUB\opengl-overlay\x64\Debug\Overlay.exe

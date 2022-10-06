@@ -9,9 +9,6 @@ int APIENTRY wWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPTSTR lpCmd
 {
 	Kostek::CastHud* p_castHud = new Kostek::CastHud();
 
-	int xOffset = 0;
-	int yOffset = 0;
-
 	if (p_castHud->Create())
 	{
 		while (p_castHud->Run())
