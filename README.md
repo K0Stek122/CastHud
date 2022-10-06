@@ -10,6 +10,7 @@ It currently has 5 styles and a few basic settings:
 - Scale
 - RGB colors
 - Offset
+- T Style crosshair
 
 # How to use it?
 To use just download the latest release and run, to open the menu press insert.
