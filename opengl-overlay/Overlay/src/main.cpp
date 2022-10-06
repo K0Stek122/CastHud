@@ -1,4 +1,4 @@
-#include "include/Overlay/Overlay.h"
+#include "include/CastHud/CastHud.h"
 
 #include "include/ImGui/imgui.h"
 #include "include/ImGui/imgui_impl_glfw.h"
@@ -7,16 +7,16 @@
 
 int APIENTRY wWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPTSTR lpCmdLine, int nCmdShow)
 {
-	Kostek::CastHud* overlay = new Kostek::CastHud();
+	Kostek::CastHud* p_castHud = new Kostek::CastHud();
 
 	int xOffset = 0;
 	int yOffset = 0;
 
-	if (overlay->Create())
+	if (p_castHud->Create())
 	{
-		while (overlay->Run())
+		while (p_castHud->Run())
 		{
-			overlay->Handle();
+			p_castHud->Handle();
 		}
 	}
 	return 0;
